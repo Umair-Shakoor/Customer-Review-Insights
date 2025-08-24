@@ -40,8 +40,8 @@ Raw Reviews → Data Processing → NLP/AI Analysis → Structured Insights → 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/ai-review-insights.git
-cd ai-review-insights
+git clone https://github.com/Umair-Shakoor/Customer-Review-Insights
+cd Customer-Review-Insights
 ```
 
 2. **Create virtual environment**
